@@ -1,0 +1,7 @@
+{
+  "name": "firebaseLogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
